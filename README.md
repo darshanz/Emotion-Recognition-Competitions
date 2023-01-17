@@ -6,16 +6,22 @@ This repository contains a list of Emotion recognition related challenges held s
 - Last Updated: Nov 16, 2022
 
 ##### Monthly table for competition starting date
+ 
 
-|   | Jan  | Feb  | Mar  |  Apr  |  May  |  Jun  |  Jul  |  Aug  |  Sep  |  Oct  |  Nov  |  Dec  | 
-|---|---|---| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| 
-| 2019 |   |   |      | [AVEC][4]    |     |     |     |     |  [SemEval][5] |  [Emopain][1] |  [CER-MMER][2], [Affective behavior][3]  |     | 
-| 2020 |   |  [EmotiW][6] |      | [OpenEDS][7], [MER][8], [MUSE][14]   |     |     |    [KERC][10] |     |   [MERC2020][9]  |     |     |     |  
-| 2021 |[EmoRecCom][11]  |    |   [EEV][12], [ABAW2][15], [AffectMove][16] |  [MUSE][13] |     |     |    |     |      |[Memotion][25]     |    |     |  
-| 2022 |   |    |     |   [ABAW3][19] |  [MUSE][17], [A-VB][20]   |     | [ABAW4][18]   |  [KERC22][22]   |  [MediaEval][21]      |  [Memotion3][23], [OpenPack][24] |     |     |
-| 2023 |  [ABAW5][25] |    |     |    |    |     |  |   |      |  |     |     |
-
-
+|   | 2019  | 2020  | 2021  |  2022  |  2023  | 
+|---|---|---| ---| ---| ---| 
+| Jan |   |   |   [EmoRecCom][11]    |     |   [ABAW5][25]  |     |  
+| Feb |   |  [EmotiW][6] |      |    |     |   
+| Mar |   |   |   [EEV][12], [ABAW2][15], [AffectMove][16] |   |     |  
+| Apr | [AVEC][4]  |  [OpenEDS][7], [MER][8], [MUSE][14]  |   [MUSE][13]   |  [ABAW3][19]     |      |  
+| May |    |    |     |   [MUSE][17], [A-VB][20]  | |    
+| Jun |   |    |     |    |   | 
+| Jul |    |   [KERC]  |     |  [ABAW4][18]   |   | 
+| Aug |   |    |     |  [KERC22][22]    |    
+| Sep | [SemEval][5]  |  [MERC2020][9]  |     |  [MediaEval][21]    |   | 
+| Oct |  [Emopain][1]   |    |   [Memotion][25]  |  [Memotion3][23], [OpenPack][24]  |       | 
+| Nov | [CER-MMER][2], [Affective behavior][3]  |    |     |    |     | 
+| Dec |   |    |     |    |      | 
 
 
 
