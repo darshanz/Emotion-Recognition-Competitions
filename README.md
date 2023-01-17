@@ -13,6 +13,7 @@ This repository contains a list of Emotion recognition related challenges held s
 | 2020 |   |  [EmotiW][6] |      | [OpenEDS][7], [MER][8], [MUSE][14]   |     |     |    [KERC][10] |     |   [MERC2020][9]  |     |     |     |  
 | 2021 |[EmoRecCom][11]  |    |   [EEV][12], [ABAW2][15], [AffectMove][16] |  [MUSE][13] |     |     |    |     |      |[Memotion][25]     |    |     |  
 | 2022 |   |    |     |   [ABAW3][19] |  [MUSE][17], [A-VB][20]   |     | [ABAW4][18]   |  [KERC22][22]   |  [MediaEval][21]      |  [Memotion3][23], [OpenPack][24] |     |     |
+| 2023 |  [ABAW5][25] |    |     |    |    |     |  |   |      |  |     |     |
 
 
 
@@ -32,23 +33,33 @@ This repository contains a list of Emotion recognition related challenges held s
 [12]: https://sites.google.com/view/auvi-cvpr2021/challenge "EEV"
 [13]: https://www.muse-challenge.org/ "MUSE 2021"
 [14]: https://www.muse-challenge.org/challenge "Muse 2020"
-[15]: https://ibug.doc.ic.ac.uk/resources/iccv-2021-2nd-abaw/ "ABAW 2021"
+[15]: https://ibug.doc.ic.ac.uk/resources/iccv-2021-2nd-abaw/ "ABAW 2021@ICCV"
 [16]: http://www.casapaganini.it/entimement/workshops/2021/Workshop2021_Home.php/ "AffectMove 2021"
 [17]: https://www.muse-challenge.org/ "MuSE 2022"
-[18]: https://ibug.doc.ic.ac.uk/resources/eccv-2023-4th-abaw/ "AVAW 2022@ECCV"
-[19]: https://ibug.doc.ic.ac.uk/resources/cvpr-2022-3rd-abaw/ "AVAW 2022@CVPR"
+[18]: https://ibug.doc.ic.ac.uk/resources/eccv-2023-4th-abaw/ "ABAW 2022@ECCV"
+[19]: https://ibug.doc.ic.ac.uk/resources/cvpr-2022-3rd-abaw/ "ABAW 2022@CVPR"
 [20]: https://www.competitions.hume.ai/avb2022 "A-VB" 
 [21]: https://multimediaeval.github.io/editions/2022/ "MediaEval22" 
 [22]: https://sites.google.com/view/kerc2022 "KERC22" 
 [23]: https://aiisc.ai/defactify2/Memotion.html "Memotion 3" 
 [24]: https://aiisc.ai/defactify2/Memotion.html"OpenPack"
 [25]: https://aiisc.ai/defactify/memotion_2.html "Memotion 2"
+[26]: https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/ "ABAW 2022@CVPR"
  
 
 
 
 ## Details
  ---
+### ABAW 2023@CVPR
+- Task 1: Valence-Arousal (VA) Estimation Challenge
+- Task 2: Expression (Expr) Classification Challenge
+- Task3:  Action Unit (AU) Detection Challenge
+- Task4: Emotional Reaction Intensity (ERI) Estimation Challenge
+- Dataset: ABAW dataset & Hume-Reaction dataset
+- January 13, 2023 - March 18, 2023
+
+
 ### A-VB 2022
 - Task 1: The High-Dimensional Emotion Task (A-VB High)
 - Task 2:  The Two-Dimensional Emotion Task (A-VB Two)
