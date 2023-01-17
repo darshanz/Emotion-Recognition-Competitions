@@ -3,7 +3,7 @@
 
 This repository contains a list of Emotion recognition related challenges held since 2019. The list may not contain all the competitions, this is only the list that we found relevant to our research area. (This list is also published on https://sites.google.com/view/emotionrecognition/competitions)
 
-- Last Updated: Nov 16, 2022
+- Last Updated: Jan 17, 2023
 
 ##### Monthly table for competition starting date
  
@@ -16,7 +16,7 @@ This repository contains a list of Emotion recognition related challenges held s
 | Apr | [AVEC][4]  |  [OpenEDS][7], [MER][8], [MUSE][14]  |   [MUSE][13]   |  [ABAW3][19]     |      |  
 | May |    |    |     |   [MUSE][17], [A-VB][20]  | |    
 | Jun |   |    |     |    |   | 
-| Jul |    |   [KERC]  |     |  [ABAW4][18]   |   | 
+| Jul |    |   [KERC][10]  |     |  [ABAW4][18]   |   | 
 | Aug |   |    |     |  [KERC22][22]    |    
 | Sep | [SemEval][5]  |  [MERC2020][9]  |     |  [MediaEval][21]    |   | 
 | Oct |  [Emopain][1]   |    |   [Memotion][25]  |  [Memotion3][23], [OpenPack][24]  |       | 
