@@ -13,7 +13,7 @@ This repository contains a list of Emotion recognition related challenges held s
 | Jan |   |   |   [EmoRecCom][11]    |     |   [ABAW5][25]  |     |  
 | Feb |   |  [EmotiW][6] |      |    |     |   
 | Mar |   |   |   [EEV][12], [ABAW2][15], [AffectMove][16] |   |     |  
-| Apr | [AVEC][4]  |  [OpenEDS][7], [MER][8], [MUSE][14]  |   [MUSE][13]   |  [ABAW3][19]     |  REACT23     |  
+| Apr | [AVEC][4]  |  [OpenEDS][7], [MER][8], [MUSE][14]  |   [MUSE][13]   |  [ABAW3][19]     |   [REACT23][26]      |  
 | May |    |    |     |   [MUSE][17], [A-VB][20]  | |    
 | Jun |   |    |     |    |   | 
 | Jul |    |   [KERC][10]  |     |  [ABAW4][18]   |   | 
