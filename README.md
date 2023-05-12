@@ -13,7 +13,7 @@ This repository contains a list of Emotion recognition related challenges held s
 | Jan |   |   |   [EmoRecCom][11]    |     |   [ABAW5][25]  |     |  
 | Feb |   |  [EmotiW][6] |      |    |     |   
 | Mar |   |   |   [EEV][12], [ABAW2][15], [AffectMove][16] |   |     |  
-| Apr | [AVEC][4]  |  [OpenEDS][7], [MER][8], [MUSE][14]  |   [MUSE][13]   |  [ABAW3][19]     |   [REACT23][27]      |  
+| Apr | [AVEC][4]  |  [OpenEDS][7], [MER][8], [MUSE][14]  |   [MUSE][13]   |  [ABAW3][19]     |   [REACT23][27], MUSE23[28]     |  
 | May |    |    |     |   [MUSE][17], [A-VB][20]  | |    
 | Jun |   |    |     |    |   | 
 | Jul |    |   [KERC][10]  |     |  [ABAW4][18]   |   | 
@@ -52,12 +52,19 @@ This repository contains a list of Emotion recognition related challenges held s
 [25]: https://aiisc.ai/defactify/memotion_2.html "Memotion 2"
 [26]: https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/ "ABAW 2022@CVPR"
 [27]: https://sites.google.com/cam.ac.uk/react2023/home "REACT 2023@ACM MM"
- 
+[28]: https://www.muse-challenge.org/ "MUSE 2023@ACM MM"
 
 
 
 ## Details
  ---
+ 
+  ### MUSE 2023@ACM MM
+- Task 1 - Emotional Mimicry Sub-challenge (MuSe-Mimic)
+- Task 2 - Cross-Lingual Humor Detection Sub-challenge (MuSe-Humor)
+- Task 3 - Personalisation Sub-challenge (MuSe-Personalisation)
+- Dataset: Hume-Mimic, MuSe-Humor data, Ulm-TSST
+- April 18, 2023  - July 07, 2023
  
  ### REACT 2023@ACM MM
 - Task 1 - Offline Appropriate Facial Reaction Generation
