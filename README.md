@@ -18,7 +18,7 @@ This repository contains a list of Emotion recognition related challenges held s
 | Jun |   |    |     |    |   | 
 | Jul |    |   [KERC][10]  |     |  [ABAW4][18]   |   | 
 | Aug |   |    |     |  [KERC22][22]    |    
-| Sep | [SemEval][5]  |  [MERC2020][9]  |     |  [MediaEval][21]    |   | 
+| Sep | [SemEval][5]  |  [MERC2020][9]  |     |  [MediaEval][21]    | [MediaEval][29]  | 
 | Oct |  [Emopain][1]   |    |   [Memotion][25]  |  [Memotion3][23], [OpenPack][24]  |       | 
 | Nov | [CER-MMER][2], [Affective behavior][3]  |    |     |    |     | 
 | Dec |   |    |     |    |      | 
@@ -53,11 +53,15 @@ This repository contains a list of Emotion recognition related challenges held s
 [26]: https://ibug.doc.ic.ac.uk/resources/cvpr-2023-5th-abaw/ "ABAW 2022@CVPR"
 [27]: https://sites.google.com/cam.ac.uk/react2023/home "REACT 2023@ACM MM"
 [28]: https://www.muse-challenge.org/ "MUSE 2023@ACM MM"
-
+[29]: https://multimediaeval.github.io/editions/2023 "MediaEval23"
 
 
 ## Details
  ---
+
+  ### MediaEval23
+- 5 tasks
+- sept 2023 - 1-2 feb 2024
  
   ### MUSE 2023@ACM MM
 - Task 1 - Emotional Mimicry Sub-challenge (MuSe-Mimic)
