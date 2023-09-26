@@ -3,7 +3,7 @@
 
 This repository contains a list of Emotion recognition related challenges held since 2019. The list may not contain all the competitions, this is only the list that we found relevant to our research area. (This list is also published on https://sites.google.com/view/emotionrecognition/competitions)
 
-- Last Updated: May 12, 2023
+- Last Updated: Sept 25, 2023
 
 ##### Monthly table for competition starting date
  
