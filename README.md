@@ -12,7 +12,7 @@ This repository contains a list of Emotion recognition related challenges held s
 |---|---|---| ---| ---| ---| 
 | Jan |   |   |   [EmoRecCom][11]    |     |   [ABAW5][25]  |     |  
 | Feb |   |  [EmotiW][6] |      |    |     |   
-| Mar |   |   |   [EEV][12], [ABAW2][15], [AffectMove][16] |   |     |  
+| Mar |   |   |   [EEV][12], [ABAW2][15], [AffectMove][16] |   |  [EmotiW23][31]   |  
 | Apr | [AVEC][4]  |  [OpenEDS][7], [MER][8], [MUSE][14]  |   [MUSE][13]   |  [ABAW3][19]     |   [REACT23][27], [MUSE23][28], [MER2023][30]    |  
 | May |    |    |     |   [MUSE][17], [A-VB][20]  | |    
 | Jun |   |    |     |    |   | 
@@ -55,6 +55,7 @@ This repository contains a list of Emotion recognition related challenges held s
 [28]: https://www.muse-challenge.org/ "MUSE 2023@ACM MM"
 [29]: https://multimediaeval.github.io/editions/2023 "MediaEval23"
 [30]: http://merchallenge.cn/mer2023#main4 "MER2023"
+[31]: https://sites.google.com/view/emotiw2023 "EmotiW23"
 
 
 ## Details
